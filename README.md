@@ -2,7 +2,7 @@
 
 Step into BlockSpin with all the tools to win—**BlockSpin AFY** delivers top-tier automation, farming, and combat features with no keys required. Whether you're boosting cash, tweaking your loadout, or dominating PvP, this script keeps your edge sharp and your grind efficient.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/Ozair324/BlockSpin-afy/blob/main/_BlockSpin%20AFY%20Script%20-%20Supreme%20Farm%20%26%20Combat%20Engine.png)
 
 ---
 
